@@ -25,4 +25,4 @@ docker-compose up
 atau
 docker-compose build kemudian jalankan perintah docker-compose up
 ```
-Lakukan pengujian dengan membuka pada browser localhost:8080/
+Lakukan pengujian dengan membuka pada browser localhost:8000/
